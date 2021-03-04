@@ -1,3 +1,6 @@
+# Site is Live: [MEDİCAL WEBSİTE](https://react-medical.netlify.app/)
+## I have used STYLED COMPONENTS for This Project, because usage of `styled components` is a very easy and comfortable. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
